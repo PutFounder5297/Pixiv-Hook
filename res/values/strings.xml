@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pixiv 净化</string>
+    <string name="module_desc">屏蔽 pixiv 广告位、促销弹窗与 Premium 推广入口</string>
+    <string-array name="xposedscope">
+        <item>jp.pxv.android</item>
+    </string-array>
+</resources>
